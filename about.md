@@ -26,6 +26,64 @@ He received his undergraduate degree from the University of Michigan in History.
 </div>
 
 
+## 2018-2019 Interns:
+
+### Neil Zhu
+**Author**
+<div class='media' markdown='1'>
+<div class='pull-left' markdown='1'>
+</div>
+<div class="media-body" markdown="1">
+</div>
+</div>
+
+### Hope Tambala 
+**Author**
+<div class='media' markdown='1'>
+<div class='pull-right' markdown='1'>
+</div>
+<div class="media-body" markdown="1">
+</div>
+</div>
+
+### Jordan Earnest 
+**Author**
+<div class='media' markdown='1'>
+<div class='pull-left' markdown='1'>
+</div>
+<div class="media-body" markdown="1">
+</div>
+</div>
+
+### Rheagan Martin
+**Author**
+<div class='media' markdown='1'>
+<div class='pull-right' markdown='1'>
+</div>
+<div class="media-body" markdown="1">
+</div>
+</div>
+
+### Hannah VanWingen 
+**Author**
+<div class='media' markdown='1'>
+<div class='pull-left' markdown='1'>
+<img src='/images/people/HannahVanWingen.jpg' class='media-object' markdown = '1'>
+</div>
+<div class="media-body" markdown="1">
+Hannah is earning a Bachelors of Science in Physics and Complex Systems with a Minor in Computer Science. She is particularly interested in network analysis and quantifying the dynamics and organizational aspects of urban infrastructure.
+</div>
+</div>
+
+### Emily Lin
+**Author**
+<div class='media' markdown='1'>
+<div class='pull-right' markdown='1'>
+</div>
+<div class="media-body" markdown="1">
+</div>
+</div>
+
 ## 2016-2017 Interns:
 
 ### Junhui Li
