@@ -81,6 +81,7 @@ Hannah is earning a Bachelors of Science in Physics and Complex Systems with a M
 **Author**
 <div class='media' markdown='1'>
 <div class='pull-right' markdown='1'>
+<img src='/images/people/EmilyLin.jpg' width = '300' class='media-object' markdown = '1'>
 </div>
 <div class="media-body" markdown="1">
 Emily is a Bachelor’s student in the School of Information with a focus in Information Analysis. Emily is passionate about data visualization because it helps people see trends they cannot see otherwise. Emily is particularly interested in various visualizations in R and Python libraries.
