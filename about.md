@@ -28,12 +28,14 @@ He received his undergraduate degree from the University of Michigan in History.
 
 ## 2018-2019 Interns:
 
-### Neil Zhu
+### Lihan Zhu
 **Author**
 <div class='media' markdown='1'>
 <div class='pull-left' markdown='1'>
+<img src='/images/people/NeilZhu.png' class='media-object' markdown = '1'>
 </div>
 <div class="media-body" markdown="1">
+Lihan (Neil) is a Master student in the School of Information focusing on human-computer interaction. He also received Master and Bachelor degrees in Architecture from the University of Michigan and Zhejiang University respectively. As an empathetic designer and energetic learner, Neil is particularly interested in exploring different ways and technologies of visualizing data innovatively and interactively.
 </div>
 </div>
 
