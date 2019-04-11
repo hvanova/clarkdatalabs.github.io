@@ -92,7 +92,7 @@ Hannah is earning a Bachelors of Science in Physics and Complex Systems with a M
 **Author**
 <div class='media' markdown='1'>
 <div class='pull-left' markdown='1'>
-<img src='/images/people/JunhuiLi.jpg' class='media-object' markdown = '1'>
+<img src='/images/people/JunhuiLi.jpg' height="42" width="42" class='media-object' markdown='1'>
 </div>
 <div class="media-body" markdown="1">
 Junhui received his Master's degree from the School of Information with a focus on Information Analysist and Retrieval & Human Computer Interaction. Proud to be a Wolverine!
