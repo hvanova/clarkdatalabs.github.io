@@ -16,7 +16,7 @@ Our blog serves as a space to share tutorials and troubleshooting for various ap
 #### Project Coordinator and Blog Editor
 <div class='media' markdown='1'>
 <div class='pull-right' markdown='1'>
-<img src='/images/people/JustinJoque.jpg' class='media-object' markdown = '1'>
+<img src='/images/people/JustinJoque.jpg' width = '300' class='media-object' markdown = '1'>
 </div>
 <div class="media-body" markdown="1">
 As a Visualization Librarian at the University of Michigan Library, Justin primarily assists users in finding, manipulating, analyzing and visualizing diverse types of data. He provides consultations on data visualization and other data related issues. He also teaches workshops on visualization techniques, literacy and tools.
@@ -32,7 +32,7 @@ He received his undergraduate degree from the University of Michigan in History.
 **Author**
 <div class='media' markdown='1'>
 <div class='pull-left' markdown='1'>
-<img src='/images/people/NeilZhu.jpg' width="350" class='media-object' markdown = '1'>
+<img src='/images/people/NeilZhu.jpg' width="300" class='media-object' markdown = '1'>
 </div>
 <div class="media-body" markdown="1">
 Lihan (Neil) is a Master student in the School of Information focusing on human-computer interaction. He also received Master and Bachelor degrees in Architecture from the University of Michigan and Zhejiang University respectively. As an empathetic designer and energetic learner, Neil is particularly interested in exploring different ways and technologies of visualizing data innovatively and interactively.
@@ -70,7 +70,7 @@ Lihan (Neil) is a Master student in the School of Information focusing on human-
 **Author**
 <div class='media' markdown='1'>
 <div class='pull-left' markdown='1'>
-<img src='/images/people/HannahVanWingen.jpg' width = '350' class='media-object' markdown = '1'>
+<img src='/images/people/HannahVanWingen.jpg' width = '300' class='media-object' markdown = '1'>
 </div>
 <div class="media-body" markdown="1">
 Hannah is earning a Bachelors of Science in Physics and Complex Systems with a Minor in Computer Science. She is particularly interested in network analysis and quantifying the dynamics and organizational aspects of urban infrastructure.
@@ -92,7 +92,7 @@ Hannah is earning a Bachelors of Science in Physics and Complex Systems with a M
 **Author**
 <div class='media' markdown='1'>
 <div class='pull-left' markdown='1'>
-<img src='/images/people/JunhuiLi.jpg' width="400" class='media-object' markdown='1'>
+<img src='/images/people/JunhuiLi.jpg' width="300" class='media-object' markdown='1'>
 </div>
 <div class="media-body" markdown="1">
 Junhui received his Master's degree from the School of Information with a focus on Information Analysist and Retrieval & Human Computer Interaction. Proud to be a Wolverine!
@@ -103,7 +103,7 @@ Junhui received his Master's degree from the School of Information with a focus 
 **Author**
 <div class='media' markdown='1'>
 <div class='pull-right' markdown='1'>
-<img src='/images/people/CarolinaSimao.jpg' class='media-object' markdown = '1'>
+<img src='/images/people/CarolinaSimao.jpg' width = '300' class='media-object' markdown = '1'>
 </div>
 <div class="media-body" markdown="1">
 Carolina is a Ph.D. Candidate in the School of Natural Resources and Environment, where she received a certificate in Spatial Analysis in 2016. She received her B.S. in Ecology and Evolutionary Biology from Rice University. Carolina is particularly interested in data visualization and using it to help make science communication more accessible.
@@ -114,7 +114,7 @@ Carolina is a Ph.D. Candidate in the School of Natural Resources and Environment
 **Author**
 <div class='media' markdown='1'>
 <div class='pull-left' markdown='1'>
-<img src='/images/people/DanTanner.jpg' class='media-object' markdown = '1'>
+<img src='/images/people/DanTanner.jpg' width = '300' class='media-object' markdown = '1'>
 </div>
 <div class="media-body" markdown="1">
 Dan is a Master’s student in the School of Natural Resources and Environment in the Environmental Informatics track, where he focuses on GIS and spatial analytics. He received a Master’s degree in mathematics from Rice University before doing Peace Corps in The Gambia. Dan is excited about how spatial intuition can make visualizations more understandable.
@@ -125,7 +125,7 @@ Dan is a Master’s student in the School of Natural Resources and Environment i
 **Author**
 <div class='media' markdown='1'>
 <div class='pull-right' markdown="1">
-<img src='/images/people/ZoeWilkinsonSaldana.jpg' class='media-object' markdown = '1'>
+<img src='/images/people/ZoeWilkinsonSaldana.jpg' width = '300' class='media-object' markdown = '1'>
 </div>
 <div class="media-body" markdown="1">
 Zoë is a Master's student in the School of Information specializing in information analysis and retrieval. She received her B.A. in Anthropology from Macalester College and has since worked in research and public & academic libraries. Zoë is especially interested in grappling with ambiguous and messy data, as well as crafting compelling narratives using data visualization techniques.
@@ -138,7 +138,7 @@ Zoë is a Master's student in the School of Information specializing in informat
 **Blog Editor** 
 <div class='media' markdown='1'>
 <div class='pull-left' markdown='1'>
-<img src='/images/people/LucianaAenasoaie.jpg' class='media-object' markdown = '1'>
+<img src='/images/people/LucianaAenasoaie.jpg' width = '300' class='media-object' markdown = '1'>
 </div>
 <div class="media-body" markdown="1">
 Luciana is a Ph.D. Candidate in Anthropology and History at the University of Michigan. She received a Museum Studies Graduate Certificate in 2011 and her undergraduate degree in History, both from University of Michigan. She has been working with the University Library for the past few years as a research supervisor, exhibit curator, and program assistant.
@@ -149,7 +149,7 @@ Luciana is a Ph.D. Candidate in Anthropology and History at the University of Mi
 **Author**
 <div class='media' markdown='1'>
 <div class='pull-right' markdown='1'>
-<img src='/images/people/DainaAndries.jpg' class='media-object' markdown = '1'>
+<img src='/images/people/DainaAndries.jpg' width = '300' class='media-object' markdown = '1'>
 </div>
 <div class="media-body" markdown="1">
 Daina completed an MSI at the University of Michigan School of Information. She worked at the Clark Digital Projects Studio from the spring of 2015 to the end of the summer of 2016. She currently works as a data scientist at Red Oak Strategic, a full-stack data science and analytics consulting firm based in Washington, D.C.
@@ -160,7 +160,7 @@ Daina completed an MSI at the University of Michigan School of Information. She 
 **Author** 
 <div class='media' markdown='1'>
 <div class='pull-left' markdown='1'>
-<img src='/images/people/NoureenDharani.png' class='media-object' markdown = '1'>
+<img src='/images/people/NoureenDharani.png' width = '300' class='media-object' markdown = '1'>
 </div>
 <div class="media-body" markdown="1">
 Noureen is a Master’s candidate at the University of Michigan School of Information specializing in Human Computer Interaction. She received her B.Comm from University of Calgary. She has a keen interest in Data Visualization and Information Architecture.
@@ -171,7 +171,7 @@ Noureen is a Master’s candidate at the University of Michigan School of Inform
 **Author** 
 <div class='media' markdown='1'>
 <div class='pull-right' markdown='1'>
-<img src='/images/people/JosephKlein.jpg' class='media-object' markdown = '1'>
+<img src='/images/people/JosephKlein.jpg' width = '300' class='media-object' markdown = '1'>
 </div>
 <div class="media-body" markdown="1">
 Joe is a Master’s candidate at the School of Information focusing on data analytics and information visualization. He received his bachelor’s in Literature from the University of Michigan and is interested in the data sciences.
@@ -182,7 +182,7 @@ Joe is a Master’s candidate at the School of Information focusing on data anal
 **Author** 
 <div class='media' markdown='1'>
 <div class='pull-left' markdown='1'>
-<img src='/images/people/BhawanaMishra.jpg' class='media-object' markdown = '1'>
+<img src='/images/people/BhawanaMishra.jpg' width = '300' class='media-object' markdown = '1'>
 </div>
 <div class="media-body" markdown="1">
 Bhawana is a Master’s candidate at the University of Michigan School of Information with skills in Data Mining and Data Visualization, and a former Business Intelligence Developer with a strong hold of Data Warehousing techniques, Query languages and BI tools.
@@ -193,7 +193,7 @@ Bhawana is a Master’s candidate at the University of Michigan School of Inform
 **Author** 
 <div class='media' markdown='1'>
 <div class='pull-right' markdown='1'>
-<img src='/images/people/KristenSheppard.jpg' class='media-object' markdown = '1'>
+<img src='/images/people/KristenSheppard.jpg' width = '300' class='media-object' markdown = '1'>
 </div>
 <div class="media-body" markdown="1">
 Kristen is earning a Master’s of Science in Information at the University of Michigan’s School of Information with a focus in Human-Computer Interaction and Entrepreneurship. Kristen is passionate about digital-literacy and enjoys collaborating with researchers on data-visualization techniques and text analysis projects.
