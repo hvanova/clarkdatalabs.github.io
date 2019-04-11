@@ -73,7 +73,7 @@ Lihan (Neil) is a Master student in the School of Information focusing on human-
 <img src='/images/people/HannahVanWingen.jpg' width = '300' class='media-object' markdown = '1'>
 </div>
 <div class="media-body" markdown="1">
-Hannah is earning a Bachelors of Science in Physics and Complex Systems with a Minor in Computer Science. She is particularly interested in network analysis and quantifying the dynamics and organizational aspects of urban infrastructure.
+Hannah is earning a Bachelors of Science in Physics and Complex Systems with a Minor in Computer Science. She is particularly interested in network analysis, cellular automaton, and physical modeling. 
 </div>
 </div>
 
